@@ -1,6 +1,7 @@
 {
   "name": "array-translate",
   "version": "0.0.1",
+  "repository": "https://github.com/jackmahoney/array-translate",
   "description": "Translate members of an array left or right",
   "main": "src/nudge.js",
   "scripts": {
