@@ -1,0 +1,15 @@
+{
+  "name": "array-translate",
+  "version": "0.0.1",
+  "description": "Translate members of an array left or right",
+  "main": "src/nudge.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
